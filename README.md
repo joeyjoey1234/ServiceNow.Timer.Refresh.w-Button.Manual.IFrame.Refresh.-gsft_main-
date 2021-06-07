@@ -3,4 +3,4 @@ Used to be a Gist, All this does is add a refresh timer to a Service Now Dashboa
 
 Script creates a Timer Progress bar, Entry Field for setting the refresh interval, start button, and a manual refresh button.
 
-##Requirements Tampermonkey extention or anything simular
+##Requirements Tampermonkey extension or anything similar
